@@ -1,0 +1,25 @@
+#resultContainer {
+  margin-top: 20px;
+}
+
+.text-white {
+  margin-left: 35%;
+  margin-top: 80px;
+  overflow-x: hidden;
+}
+.container {
+  margin-left: 60%;
+  position: relative;
+  left: 15%;
+  top: 80px;
+  overflow-x: hidden;
+}
+
+#resultContainer {
+  margin-top: 110px;
+  margin-left: 33.5%;
+  color: white;
+  font-size: large;
+  align-items: center;
+  overflow-x: hidden;
+}
